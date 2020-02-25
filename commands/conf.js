@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 const { inspect } = require("util");
 
 /*

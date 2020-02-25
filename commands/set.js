@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 // This command is to modify/edit guild configuration. Perm Level 3 for admins
 // and owners only. Used for changing prefixes and role names and such.
 
